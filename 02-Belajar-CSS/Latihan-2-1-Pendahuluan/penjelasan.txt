@@ -1,0 +1,14 @@
+CSS adalah mekanisme sederhana yang mengatur segala elemen yang ada di web
+
+Ketika CSS sebuah web maka hanya akan tampil sederhana
+
+Jika sebuah web dibangun dengan HTML saja maka akan panjang sekali kodenya
+
+CSS adalah.
+1- Aturan yang digunakan untuk menampilkan elemen tag HTML
+2- Dibuat terpisah dengan HTML
+3- Bertujuan memisahkan konten dan stylnya
+4- 1 CSS dapat digunakan dalam banyak halaman
+5- 1 Halaman dapat berbeda jika digunakan css yan berbeda
+
+Sumber CSS

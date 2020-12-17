@@ -1,0 +1,51 @@
+Setiap deklarsi CSS terdiri dari Selector, property dan value. 
+Diawali kurungkurawal dan ditutp dengan kurung kurungkurawal
+
+Dalam CSS terdapat 
+    selector {property: value;}
+
+    h1 {color: blue;}
+    h1= selector
+    color=property
+    blue=value
+
+    selector dapat ditulis kebawah 
+
+    h1 {
+
+
+
+    }
+
+    yang kemudian bisa ditmabah 
+    - font-family: "arial";
+    - text-align: center;
+    - font-size: 30px;
+
+    sehingga jadi sperti ini
+
+    h1 {
+      font-family: "arial";
+      text-align: center;
+      font-size: 30px;
+    }
+
+    selector
+    - digunakan untuk memilih dan memanipulasi elemen spesifik pada HTML
+    - element dipilih berdasarkan tag, id, class bahkan pola dan/ pattren
+
+    h1 {color: blue;} deklarasinya kurang lebih seperti ini
+    CSS, seluruh h1 yang ada dalam halaman HTML dirubah warnaya jadi biri
+
+    property dan value
+    Total ada 350 proprty dan value, tapi tidak perlu dihafal semua
+
+    Sumber
+    https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+    https://www.ccsinfo.com/downloads/ccs_c_manual.pdf
+    https://css-tricks.com/almanac/
+
+
+
+
+

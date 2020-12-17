@@ -1,0 +1,4 @@
+Cara menempatkan CSS
+1- Embed. Menpatkan dalam head HTML
+2- Inline 
+3- External. membuat 
