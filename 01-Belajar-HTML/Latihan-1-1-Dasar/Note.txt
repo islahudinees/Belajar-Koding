@@ -1,0 +1,10 @@
+HTML memiliki Dua Struktur
+1-Head
+2-Body
+
+Setiap Struktur memiliki tag sendiri-sendiri. seperti title, meta, keyword, hi-h-6, table, list, form dll
+
+Semua Tag yanng berada dalam Head tidak ditampilkan 
+
+Sementara tag HTML yang berada akan membentuk satuu visual dan tampilan dalam halaman
+
