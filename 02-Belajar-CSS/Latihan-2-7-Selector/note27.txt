@@ -1,0 +1,10 @@
+CSS selector
+Alat untuk mengenal sebuah element tepat HTML yang akan diberi Style
+
+selector
+- Element HTML
+- ID
+- Class
+- Complex selector
+
+Sebisa mungkin gunakan dulu element HTML
