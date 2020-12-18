@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: big;
+    color: blueviolet;
+    font-variant-caps: petite-caps;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}

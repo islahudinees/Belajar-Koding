@@ -1,0 +1,29 @@
+Style
+Font Style
+- CSS memisahkan antara font dan text
+- 
+Font 
+- terkait dengan bentuk font
+
+text
+- Text property pendukug
+
+Font 
+- font-family. mengatur jenis font 
+- font-size. mengatur ukuran font
+- font-weight. ketebalan font
+- font-variant. mengubah font menjadi small caps
+- font-style. mengubah font menjadi miring
+- font-height. mengatur spasi antar baris
+
+Font-family
+- nama font. Nama font
+- generic family. kelyarga font
+
+body {
+    font-family: arial, verdana, sans-serif;
+}
+
+p {
+    font-family:"Time New Roman", serif;
+}

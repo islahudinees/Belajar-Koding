@@ -1,0 +1,24 @@
+Property pada Background
+- Background-color. Mengatur warna pada Background
+- Background-image. Mengatur gambar yang akan digunakan dalam Background
+- Background-position. Mengatur gambar pada Background
+- Background-repeat. Mengatur jenis pengulangan gambar pada Background
+
+Ketika Property Background-repeat digunakan, maka bisa berlaku Background position
+
+Value Background-position terdiri dari dua sumbu x = herizontal dan sumbu y=vertikal
+value untuk sumbu x adalah
+- top
+- center
+- bottom
+
+value untuk sumbu y adalah
+- left 
+- center
+- right
+
+value x dan y bisa digabung menjadi
+- top-left
+- top-center
+- top-right
+- conter-
