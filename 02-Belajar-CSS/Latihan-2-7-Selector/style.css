@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol ul a {
+    color: blue;
+}
+
+ul ol a {
+    color: brown;
+}
+
+h1 {
+    color: burlywood;
+}
+
+h2 {
+    color: chocolate;
+}
+
+#p1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+}
+
+.p2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgoldenrod;
+}
+
