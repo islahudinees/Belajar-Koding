@@ -1,0 +1,16 @@
+PSeudo Class
+Adalah element HTMl yang akitif pada kondisi-kondisi tertentu
+
+PSeudo class berlaku pada Link
+- Link. Element link (a yang memiliki href)
+- hover. style ketika kursor ada pada sebuah link
+- active. ketika sebuah link di klik
+- visited. ketika sebuah link telah dikunjungi
+
+PSeudo class yang berhubungan dengan posisi element
+- first-child. memilih element pada sebuah parent
+- last-child. memilih element terkhir dari sebuah parent
+- nth-child(n). memilih elemnt ke -n dari sebuah parent
+    n bisa berarti urutan (1), (2),...atau pola (2n), (3n+2), (4n-1) atau ganjil dan genap (event) and (odd) 
+
+    
