@@ -1,0 +1,10 @@
+Display
+Materi yang akan dibahas disini adalah
+- Box Modle
+- Float
+- Positioning
+
+Membutuhkan pemahaman dasar prilaku yaitu
+- Display
+- Dimensi 
+- Overflow
