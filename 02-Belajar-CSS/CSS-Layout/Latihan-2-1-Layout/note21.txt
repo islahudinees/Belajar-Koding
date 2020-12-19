@@ -1,6 +1,6 @@
 Display
 Materi yang akan dibahas disini adalah
-- Box Modle
+- Box Modele
 - Float
 - Positioning
 
@@ -8,3 +8,35 @@ Membutuhkan pemahaman dasar prilaku yaitu
 - Display
 - Dimensi 
 - Overflow
+
+Display
+<div> </div>
+<span></span>
+
+Prilaku Property Display
+- inline
+- inline-block
+- block
+- none
+
+Inline
+- Elemen HTML yang secara default tidak menambkan baris baru ketika dibuat
+- Lebar dan tinggi elementnya sebesar yang ada didalamnya
+- Kita tidak dapat mengatur tinggi dan lebar dari elemen inline
+- Margin dan padding hanya mempengaruhi element secara herizontal, tidak vertikal
+
+Elemen inline
+- b
+- strong
+- i
+- el
+- a 
+- span 
+- sub 
+- button
+- input
+- label
+- select
+- textarea
+
+ 
