@@ -1,0 +1,11 @@
+Specificity
+Adalah cara untuk memberikan nilai bobot agar lebih berat atau lebih spesifik, dengan menempatkan urutan nilai pada program css
+
+Ukuran pembobotan terletak pada
+1- Inline
+2- id
+3- calss
+4- element
+
+Sumber Belajar
+https://specificity.keegan.st/
