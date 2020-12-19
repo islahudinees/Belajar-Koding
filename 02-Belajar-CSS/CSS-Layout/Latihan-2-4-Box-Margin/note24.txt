@@ -1,0 +1,37 @@
+Box Margin
+Istilah dalam Margin
+- Overlapping Margin
+- Negative Margin
+- Auto
+- Shorthand
+
+Negative Margin
+- margin yang berlawanan arah
+  margin-left: -50px; = artinya objek akan di dorong ke kiri sebanyak -50px ke kiri
+
+Auto
+- margin yang berlaku pada sisi kanan-kiri
+- Auto harus diisi keduanya kiri dan kanan
+  margin-left: auto; =
+  margin-right: auto; =
+- akan menempatkan objek di tengah
+
+Shorthand
+- menyingkat margin menjadi satu perintah yaitu "margin" saja
+  margin: 50px; = artinya disemua sisi marginnya memiliki nilai 50px
+- Margin bisa diisi dengan 1 nilai, 2 nilai, 3 nilai dan 4 nilai  
+
+1 nilai
+- memberikan semua sisi dengan nilai yang sama
+margin: 50px;
+
+2 nilai
+margin: 50px 30px; = atas-bawah nilainya 50px, kiri-kanan nilainya 30px
+
+3 nilai 
+margin: 50px auto 30px; = atas 50px, kiri-kanan auto, bawah 30px
+
+4 nilai 
+- dibacanya searah jarum jam. atas, kanan, bawah, kiri 
+margin: 50px 30px 30px 30px;
+

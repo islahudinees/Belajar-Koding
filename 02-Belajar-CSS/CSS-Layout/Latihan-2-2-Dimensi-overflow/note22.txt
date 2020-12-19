@@ -8,3 +8,8 @@ Satuan
 - % (0%-100%)
 - in, cm, mm, pt, pc
 
+Overflow
+- Visble
+- Auto
+- Hiden
+- Scroll

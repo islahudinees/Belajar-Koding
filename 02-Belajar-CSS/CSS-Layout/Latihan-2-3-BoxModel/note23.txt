@@ -1,0 +1,41 @@
+Box Model
+- setiap objek ada alam Box
+- Box dapat diubah ukurannya
+- Box dapat diubah warnanya
+
+Box terdiri dari
+- Margin. Area transparan diluar box
+- Border. batas di sekeliling conten dan padding
+- Padding. area transparan dalam kotak
+- Content. konten dalam kotak. objek utama
+
+yang bisa diatur nilainya adalah margin, padding dan Border
+
+property untuk margin, padding dan Border
+Margin
+- margin-top
+- margin-right
+- margin-bottom
+- margin-left
+- Margin
+
+Padding
+- padding-top
+- padding-right
+- padding-bottom
+- padding-left
+- padding
+
+Border
+- border-top
+- border-right
+- border-bottom
+- border-left
+- border
+
+
+
+
+
+ 
+
