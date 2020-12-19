@@ -1,0 +1,10 @@
+Dimensi dan Overflow
+hanya mengatur
+- Width
+- height
+
+Satuan
+- px (1-100px)
+- % (0%-100%)
+- in, cm, mm, pt, pc
+
