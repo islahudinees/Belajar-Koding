@@ -1,0 +1,3 @@
+Inheretance
+Adalah pewarisan dari parent ke child. Nilai sebuah tag CSS dapat di warisi dalam halaman
+
