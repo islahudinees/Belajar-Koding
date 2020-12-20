@@ -1,0 +1,7 @@
+Pada materi ini kita akan belajar buat web sederhana
+
+Sebelum mulai kita coba gunakan beberapa sumber untuk material desainnya
+- Gambar
+    pixabay.com
+- Pattern
+https://www.toptal.com/designers/subtlepatterns/
