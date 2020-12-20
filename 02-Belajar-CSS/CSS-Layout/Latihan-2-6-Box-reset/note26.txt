@@ -1,0 +1,23 @@
+Box Reset
+setiap objek yanng tidak diberi nilai akan tampak seperti ada marginnya. itu dikarenakan setiap elemen dalam html memiliki margin sendiri, seperti body, h1 dan p
+
+menambah 0px
+Solusi dari ini maka dibuat sebuah perintah di css dengan menambahkan nilai 0px
+
+kelompok
+h1, h2, p {
+    margin: 0px;
+    padding: 0px;
+}
+
+selector universal - menggunakan * di wal
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+Reseources
+https://meyerweb.com/eric/tools/css/reset/
+
+Kode lengkap yang ditempatkan dalam css sebelum kode apapun
+
