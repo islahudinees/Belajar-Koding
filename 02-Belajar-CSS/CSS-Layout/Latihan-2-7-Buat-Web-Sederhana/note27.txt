@@ -5,3 +5,9 @@ Sebelum mulai kita coba gunakan beberapa sumber untuk material desainnya
     pixabay.com
 - Pattern
 https://www.toptal.com/designers/subtlepatterns/
+
+Resources CSS wireframe designers
+- https://designshack.net/articles/css/715-awesomely-simple-and-free-css-layouts/
+- http://css.maxdesign.com.au/#layouts
+- http://www.code-sucks.com/css%20layouts/
+- 

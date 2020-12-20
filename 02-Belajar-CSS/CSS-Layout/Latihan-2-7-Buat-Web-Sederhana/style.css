@@ -1,0 +1,142 @@
+/* http://meyerweb.com/eric/tools/css/reset/ */
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* STYLE CSS FROM HERE */
+/* Mengatur keseluruhan pada body font, warna dan ukuran */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #eaeaea; /* warna dasar luar */
+    color: #333;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: white; /* warna dasar dalam */
+}
+
+.header {
+    padding: 20px;
+}
+
+.header .judul {
+    font-size: 48px;
+}
+
+.header ul li {
+    display: inline-block;  /* agar list jadi herizontal */
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.header a {
+    text-decoration: none; /* Menghilangkan underline pada a */
+    color: salmon;
+    padding: 3px; /* padding pada backround hover */
+}
+
+.header a:hover {
+    background-color: skyblue;
+    color: white;
+}
+
+.hero {
+    height: 300px;
+    background-image: url(img/banner.png);
+    background-size: cover;
+    background-position: 0 -40px; /* mengatir posisi gambar */
+    border-top: 5px solid salmon; /* garis atas- dekorasi */
+    border-bottom: 5px solid lightskyblue;
+}
+
+.content {
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 30px;
+}
+
+.metadata a {
+    text-decoration: none;
+    color: salmon;
+}
+
+.content .metadata {
+    font-size: 15px;
+    font-style: bold;
+}
+
+.artikel {
+    padding: 20px;
+}
+
+.artikel p {
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: black;
+    font-size: 15px;
+    color: blanchedalmond;
+    text-align: center;
+    height: 40px;
+    padding: 15px;
+}
+
+.footer a {
+    color: salmon;
+    text-decoration: none;
+}

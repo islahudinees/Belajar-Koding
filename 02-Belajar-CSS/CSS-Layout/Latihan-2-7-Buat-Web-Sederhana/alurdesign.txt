@@ -1,0 +1,29 @@
+Alur desain
+Secara Umum tamppilan dibagi menjadi 4 bagian
+A. Header
+B. Banner
+C. Konten
+D. Footer
+
+Jika dipecah maka akan seperti ini
+A. Header
+    1. Nama website
+    2. Navigasi 
+B. Banner
+    3. Gambar Banner
+C. Konten
+    4. Judul Artikel
+    5. Metadata Artikel
+    6. Artikel
+D. Footer
+    7. Copypright
+
+Design Kerja
+1. Membuat general font, warna dan ukuran dengan tag body
+1. Membuat container
+2. Mengkelompokan 4 bagian dengan Div sendiri-sendiri
+
+
+
+
+
