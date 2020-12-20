@@ -1,0 +1,27 @@
+Padding, Margin dan border
+
+Padding 
+- tidak memiliki nilai auto
+- tidak memiliki nilai negative
+
+border
+- tebal border
+- style (solid)
+- warna
+
+cara penlisan border
+border: 2px solid yellow;
+- 2px = width
+- solid = style
+- yellow = color
+
+style border
+- solid
+- dotted - titik2
+- dash 
+- doouble - dua garis
+
+bisa ditulis satu satu
+- border-color
+- border-style
+
